@@ -1,8 +1,9 @@
 ## **[Atliq Grand Performance Insights](https://app.powerbi.com/view?r=eyJrIjoiNzU2MjE2ZGUtNWMzOC00ZjYzLWIyYWItYWNjOWNkNzhkNWVhIiwidCI6IjAzNWRkZWY2LTI0MzMtNDhiNi04NTI2LTcwY2E4MTgxZjc2ZCIsImMiOjN9)**
 
 ### Project Overview
-I’m excited to present my latest Power BI dashboard for the Atliq Grand Performance Insights project. This project allowed me to enhance my Power BI skills and gain deeper insights into the hospitality industry.
+Welcome to my Atliq Grand Performance Insights project! This dashboard was developed to tackle a significant challenge faced by AtliQ Grands, a prominent chain of five-star hotels in India. Despite having a long-standing presence in the hospitality industry, AtliQ Grands has been losing market share and revenue in the luxury and business hotel categories due to competitive pressures and ineffective management decisions.
 
+To address these issues and regain their competitive edge, the managing director decided to leverage “Business and Data Intelligence.” This project aims to support AtliQ Grands in making more informed decisions by providing detailed insights into their hotel performance.
 ### Key Features
 1. **Top Metrics:**
    - This section highlights the key performance indicators (Revenue, Occupancy %, Realisation %, ADR, Cancellation %, RevPAR, DSRN, Avg. Rating), giving an overview of the hotel's financial and operational performance.
