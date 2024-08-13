@@ -1,4 +1,4 @@
-## Atliq Grand Performance Insights
+## **[Atliq Grand Performance Insights](https://app.powerbi.com/view?r=eyJrIjoiNzU2MjE2ZGUtNWMzOC00ZjYzLWIyYWItYWNjOWNkNzhkNWVhIiwidCI6IjAzNWRkZWY2LTI0MzMtNDhiNi04NTI2LTcwY2E4MTgxZjc2ZCIsImMiOjN9)**
 
 ### Project Overview
 I’m excited to present my latest Power BI dashboard for the Atliq Grand Performance Insights project. This project allowed me to enhance my Power BI skills and gain deeper insights into the hospitality industry.
